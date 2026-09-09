@@ -2,3 +2,4 @@ numpy
 pandas
 seaborn
 ydata-profiling
+setuptools==80.10.2

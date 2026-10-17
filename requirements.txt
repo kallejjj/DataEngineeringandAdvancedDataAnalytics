@@ -9,3 +9,5 @@ imblearn
 ctgan
 sdv
 tabfairgan
+seaborn-qqplot
+sweetviz

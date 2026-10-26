@@ -11,3 +11,6 @@ sdv
 tabfairgan
 seaborn-qqplot
 sweetviz
+category_encoders
+featuretools
+Tsfresh
